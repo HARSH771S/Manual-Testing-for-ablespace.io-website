@@ -41,7 +41,7 @@ This is exploratory coverage, not a claim that every feature or scenario in the 
 
 The available bug report workbook is:
 
-- [`HarshGupta_softwareTester(QA)/HarshGupta_Software Tester (QA)/4. bugs_report_stagging_ablespace_web.xlsx`](HarshGupta_softwareTester(QA)/HarshGupta_Software Tester (QA)/4. bugs_report_stagging_ablespace_web.xlsx)
+- HarshGupta_softwareTester(QA)/4. bugs_report_stagging_ablespace_web.xlsx
 
 It contains the reported issue details. Add new findings to the register with reproducible steps, expected and actual results, severity, priority, environment, and evidence.
 
